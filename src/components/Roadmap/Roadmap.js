@@ -1,7 +1,7 @@
 import React from "react";
 import borderwhite from "../../images/second border.svg";
-import frogpee from "../../images/pepecropped2.png";
-import froggreen from "../../images/pepecropped4.png";
+import frogpee from "../../images/suidrop1.png";
+import froggreen from "../../images/suidrop2.png";
 import { BsDot } from "react-icons/bs";
 
 const Roadmap = () => {
@@ -13,7 +13,7 @@ const Roadmap = () => {
         id="roadmap"
       >
         <div className="flex justify-between">
-          <div className="w-1/4">
+          <div className="w-[29%]">
             <img src={frogpee} alt="" />
           </div>
           <div className="flex flex-col items-center justify-around gap-10">
@@ -26,7 +26,7 @@ const Roadmap = () => {
               <p>Phase 3: Generational wealth</p>
             </div> */}
           </div>
-          <div className="w-1/4">
+          <div className="w-[29%]">
             <img src={froggreen} alt="" />
           </div>
         </div>
