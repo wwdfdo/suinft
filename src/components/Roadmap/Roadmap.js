@@ -13,7 +13,7 @@ const Roadmap = () => {
         id="roadmap"
       >
         <div className="flex justify-between">
-          <div className="w-[29%]">
+          <div className="w-[25%]">
             <img src={frogpee} alt="" />
           </div>
           <div className="flex flex-col items-center justify-around gap-10">
@@ -26,7 +26,7 @@ const Roadmap = () => {
               <p>Phase 3: Generational wealth</p>
             </div> */}
           </div>
-          <div className="w-[29%]">
+          <div className="w-[25%]">
             <img src={froggreen} alt="" />
           </div>
         </div>
