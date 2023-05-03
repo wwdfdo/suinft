@@ -66,7 +66,7 @@ const Banner = () => {
                   <img src={discord} alt="" />
                 </div>
               </a> */}
-              <div className="lg:w-[4.2rem] w-[2.6rem]">
+              <div className="lg:w-[4.2rem] w-[2.6rem] cursor-pointer">
                 <img src={discord} alt="" />
               </div>
               <a
