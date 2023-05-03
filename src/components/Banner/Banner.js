@@ -61,38 +61,22 @@ const Banner = () => {
                   <img src={telegram} alt="" />
                 </div>
               </a>
-              <a
-                href="https://discord.com/invite/pwFzafVscf"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="/" target="_blank" rel="noreferrer">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={discord} alt="" />
                 </div>
               </a>
-              <a
-                href=" https://opensea.io/collection/pepeclubvip"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="/" target="_blank" rel="noreferrer">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={opensea} alt="" />
                 </div>
               </a>
-              <a
-                href="https://medium.com/@pepeclubvip"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="/" target="_blank" rel="noreferrer">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={medium} alt="" />
                 </div>
               </a>
-              <a
-                href="https://nftcalendar.io/b/arbitrum"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="/" target="_blank" rel="noreferrer">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={nftlink} alt="" />
                 </div>

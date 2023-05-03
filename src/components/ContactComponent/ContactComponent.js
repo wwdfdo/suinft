@@ -32,33 +32,17 @@ const ContactComponent = () => {
           >
             <SiTelegram className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a
-            href="https://discord.com/invite/pwFzafVscf"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/" target="_blank" rel="noreferrer">
             {" "}
             <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a
-            href="https://opensea.io/collection/pepeclubvip"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/" target="_blank" rel="noreferrer">
             <img src={opensea} className=" lg:w-[56px] w-[30px]" alt="" />
           </a>
-          <a
-            href="https://medium.com/@pepeclubvip"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/" target="_blank" rel="noreferrer">
             <img src={medium} className=" lg:w-[56px] w-[30px]" alt="" />
           </a>
-          <a
-            href="https://nftcalendar.io/b/arbitrum"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/" target="_blank" rel="noreferrer">
             <img src={nftLink} className=" lg:w-[56px] w-[30px] pt-2" alt="" />
           </a>
         </div>
