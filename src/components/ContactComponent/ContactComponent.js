@@ -16,7 +16,7 @@ const ContactComponent = () => {
       <div className="flex flex-col justify-center items-center gap-10  lg:w-2/3 w-5/6 mx-auto text-white py-20">
         <h2 className="lg:text-7xl text-6xl font-bold pb-10 ">CONTACT</h2>
         <img src={img} alt="" />
-        <p className="lg:text-2xl text-xl">email: team@pepeclub.vip</p>
+        <p className="lg:text-2xl text-xl">email: team@suinft.wtf</p>
         <div className="flex gap-5">
           <a
             href="https://twitter.com/SuiNFTofficial/status/1653722958152749056"
@@ -36,7 +36,11 @@ const ContactComponent = () => {
             {" "}
             <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a href="/">
+          <a
+            href="https://opensea.io/collection/suinftofficial/drop?tab=roadmap"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={opensea} className=" lg:w-[56px] w-[30px]" alt="" />
           </a>
           <a href="/">

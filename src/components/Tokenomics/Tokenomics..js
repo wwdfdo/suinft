@@ -18,30 +18,33 @@ const Tokenomics = () => {
             <h3 className="text-white text-4xl font-bold">Token Supply:</h3>
             <p className="text-white text-4xl font-bold">420,690,000,000,000</p>
           </div> */}
-            <div className="flex flex-col lg:gap-10 gap-5  mx-auto px-8 py-12 rounded-tr-3xl rounded-bl-3xl border-2 border-white bg-green-950 lg:text-[1.8rem] text-[1rem]   text-white">
+            <div className="flex flex-col lg:gap-10 gap-5  mx-auto px-8 py-12 rounded-tr-3xl rounded-bl-3xl border-2 border-white bg-green-950 lg:text-[1.5rem] text-[1rem]   text-white">
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Pepe Club Supply: 50,000</p>{" "}
+                <p>$SUI水 Total Supply: 1,000,000,000</p>{" "}
               </div>
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Pepe Club Chain: Arbitrum </p>{" "}
+                <p>Sui 水 NFT Collection Supply: 10,000 </p>{" "}
               </div>
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Pepe Club Price: 0.00051 ETH</p>{" "}
+                <p>First 1000 Mints: Free</p>{" "}
               </div>
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Drop: OpenSea</p>{" "}
+                <p>Remaining 9000: 0.0027 ETH ($5)</p>{" "}
               </div>
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Secondary OpenSea</p>{" "}
+                <p>Mint Time: 8 p.m UTC</p>{" "}
               </div>
               <div className="flex items-center">
                 <BsDot size={40} />
-                <p>Pepe Club Royalty: 5%</p>{" "}
+                <p>
+                  60% Total Token Supply Airdropped <br /> to Sui 水 NFT
+                  Holders.
+                </p>{" "}
               </div>
               {/* <p>
                 93.1% of the tokens were sent to the liquidity pool,

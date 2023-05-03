@@ -26,10 +26,11 @@ const About = () => {
             <br /> Inu Memes. The Inu`s have had their <br /> day. It`s time for
             the most recognizable <br /> meme in the world to take his reign as{" "}
             <br /> king of the memes. */}
-            The Sui 水 NFT was <br /> released to celebrate the launch <br /> of
-            the Sui main network and support <br /> the community around it and
-            encourage the Sui <br />
-            NFT space with creativity and collaboration.
+            The Sui 水 NFT <br /> was released to celebrate the <br /> launch of
+            the Sui main network and <br /> support the community around it and{" "}
+            <br />
+            encourage the Sui NFT space <br /> with creativity and
+            collaboration.
           </p>
           {/* <p className="text-2xl tracking-wider">
             Pepe is here to make memecoins great <br /> again. Launched stealth

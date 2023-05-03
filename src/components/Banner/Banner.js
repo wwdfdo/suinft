@@ -66,7 +66,11 @@ const Banner = () => {
                   <img src={discord} alt="" />
                 </div>
               </a>
-              <a href="/">
+              <a
+                href="https://opensea.io/collection/suinftofficial/drop?tab=roadmap"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={opensea} alt="" />
                 </div>
