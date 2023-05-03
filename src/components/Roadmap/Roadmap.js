@@ -36,7 +36,7 @@ const Roadmap = () => {
           ;)
         </div> */}
         <div className="flex lg:flex-row flex-col gap-5 justify-center flex-wrap ">
-          <div className="flex flex-col  bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col  bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">NFT Launch</h3>
             <div className="flex flex-col lg:gap-5 gap-2 lg:pl-0 pl-10 ">
               <div className="flex items-center">
@@ -47,7 +47,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col  bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col  bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">
               Twitter Community
             </h3>
@@ -57,7 +57,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold"> Communications</h3>
             <div className="flex flex-col lg:gap-5 gap-2 lg:pl-0 pl-10 ">
               <div className="flex items-center">
@@ -67,7 +67,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">SUI Network</h3>
             <div className="flex flex-col lg:gap-5 gap-2 lg:pl-0 pl-10 ">
               <div className="flex items-center">
@@ -77,7 +77,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">Sui 水 Community</h3>
             <div className="flex flex-col lg:gap-5 gap-2 lg:pl-0 pl-10 ">
               <div className="flex items-center">
@@ -89,7 +89,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">Sui NFT Arbitrum</h3>
             <div className="flex flex-col lg:gap-5 gap-2 lg:pl-0 pl-10 ">
               <div className="flex items-start">
@@ -101,7 +101,7 @@ const Roadmap = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 w-[23%]">
+          <div className="flex flex-col bg-green-950 rounded-tr-3xl rounded-bl-3xl border-2 border-white gap-8 py-10 px-5 lg:w-[23%] w-full">
             <h3 className="text-center text-2xl font-bold">
               Sui NFT Collection
             </h3>
