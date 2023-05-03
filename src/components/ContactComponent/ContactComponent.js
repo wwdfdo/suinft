@@ -3,7 +3,7 @@ import React from "react";
 import { RxDiscordLogo } from "react-icons/rx";
 import { TfiTwitter } from "react-icons/tfi";
 import { SiTelegram } from "react-icons/si";
-import img from "../../images/Pepe_Club_Logo_cropped.png";
+import img from "../../images/Logo.png";
 import borderwhite from "../../images/second border.svg";
 import opensea from "../../images/opensea.svg";
 import medium from "../../images/mediumwhite.svg";
@@ -19,13 +19,17 @@ const ContactComponent = () => {
         <p className="lg:text-2xl text-xl">email: team@pepeclub.vip</p>
         <div className="flex gap-5">
           <a
-            href="https://twitter.com/pepeclubvip"
+            href="https://twitter.com/SuiNFTofficial/status/1653722958152749056"
             target="_blank"
             rel="noreferrer"
           >
             <TfiTwitter className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a href="https://t.me/pepeclubvip" target="_blank" rel="noreferrer">
+          <a
+            href="https://t.me/suinftofficial"
+            target="_blank"
+            rel="noreferrer"
+          >
             <SiTelegram className="text-white lg:text-[56px] text-[30px]" />
           </a>
           <a

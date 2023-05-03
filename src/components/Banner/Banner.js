@@ -31,11 +31,12 @@ const Banner = () => {
       <div className="flex flex-col">
         <div className="flex lg:flex-row flex-col items-center lg:justify-between gap-20 pt-20">
           <div className="text-white flex flex-col items-center lg:items-start gap-6">
-            <h3 className="flex text-[3rem] italic font-bold">#pepeclub</h3>
+            <h3 className="flex text-[3rem] italic font-bold">#SUI水</h3>
             <p className="lg:flex lg:text-left text-center  lg:text-[2.2rem] hidden ">
-              the most memeable NFT in <br /> existence. The dogs have had their{" "}
+              {/* the most memeable NFT in <br /> existence. The dogs have had their{" "}
               <br />
-              day, it’s time for Pepe to take reign.
+              day, it’s time for Pepe to take reign. */}
+              Sui 水, Sui is everything.
             </p>
             <p className="lg:hidden lg:text-left text-center  text-[1.5rem] flex ">
               the most memeable NFT in existence. The dogs have had their day,
@@ -52,7 +53,7 @@ const Banner = () => {
                 </div>
               </a>
               <a
-                href="https://t.me/pepeclubvip"
+                href="https://t.me/suinftofficial"
                 target="_blank"
                 rel="noreferrer"
               >
