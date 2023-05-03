@@ -14,7 +14,7 @@ const ContactComponent = () => {
     <div>
       <img src={borderwhite} className=" rotate-180" alt="" />
       <div className="flex flex-col justify-center items-center gap-10  lg:w-2/3 w-5/6 mx-auto text-white py-20">
-        <h2 className="lg:text-7xl text-6xl font-bold pb-10 ">CONTACT</h2>
+        <h2 className="lg:text-7xl text-6xl font-bold ">CONTACT</h2>
         <img src={img} alt="" />
         <p className="lg:text-2xl text-xl">email: team@suinft.wtf</p>
         <div className="flex gap-5">
@@ -50,7 +50,7 @@ const ContactComponent = () => {
             <img src={nftLink} className=" lg:w-[56px] w-[30px] pt-2" alt="" />
           </a>
         </div>
-        <p className="flex lg:text-2xl text-base text-center">
+        {/* <p className="flex lg:text-2xl text-base text-center">
           #PEPE #PEPECLUB Pepe Club has no association with Matt Furie or his
           creation Pepe the Frog. This token is simply paying homage to a meme
           we all love and recognize.
@@ -61,7 +61,7 @@ const ContactComponent = () => {
           Pepe Meme and support the community around it and encourage the NFT
           space with creativity and collaboration, Pepe Club NFT collection is
           solely for entertainment purposes only.
-        </p>
+        </p> */}
       </div>
     </div>
   );
