@@ -1,7 +1,7 @@
 import React from "react";
 import borderwhite from "../../images/second border.svg";
 import frogpee from "../../images/suidrop1.png";
-import froggreen from "../../images/suidrop2.png";
+import froggreen from "../../images/suidrop3.png";
 import { BsDot } from "react-icons/bs";
 
 const Roadmap = () => {
