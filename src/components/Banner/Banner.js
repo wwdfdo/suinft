@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImage from "../../images/20.png";
+import BannerImage from "../../images/20waterdrop.png";
 import twitter from "../../images/icons8-twitter-circled-96.png";
 import telegram from "../../images/icons8-telegram-app-96.png";
 import medium from "../../images/medium.svg";
