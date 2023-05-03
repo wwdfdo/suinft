@@ -21,11 +21,15 @@ const About = () => {
           <h3 className="flex text-center lg:text-left lg:text-7xl text-4xl font-bold">
             ABOUT
           </h3>
-          <p className="lg:text-2xl text-[1rem]  lg:text-left text-center tracking-wider lg:px-0 px-5">
-            the endless derivative <br /> ShibaCumGMElonKishuTurboAssFlokiMoon{" "}
+          <p className="lg:text-[1.5rem] text-[1rem]  lg:text-left text-center tracking-wider lg:px-0 px-5">
+            {/* the endless derivative <br /> ShibaCumGMElonKishuTurboAssFlokiMoon{" "}
             <br /> Inu Memes. The Inu`s have had their <br /> day. It`s time for
             the most recognizable <br /> meme in the world to take his reign as{" "}
-            <br /> king of the memes.
+            <br /> king of the memes. */}
+            The Sui 水 NFT was <br /> released to celebrate the launch <br /> of
+            the Sui main network and support <br /> the community around it and
+            encourage the Sui <br />
+            NFT space with creativity and collaboration.
           </p>
           {/* <p className="text-2xl tracking-wider">
             Pepe is here to make memecoins great <br /> again. Launched stealth
