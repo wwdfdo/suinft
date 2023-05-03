@@ -1,7 +1,7 @@
 import React from "react";
 import borderwhite from "../../images/second border.svg";
 // import tokemfrog from "../../images/tokenomicfrog.webp";
-import cow from "../../images/pepex.png";
+import cow from "../../images/21.png";
 import { BsDot } from "react-icons/bs";
 
 const Tokenomics = () => {
@@ -54,14 +54,14 @@ const Tokenomics = () => {
               </p>{" "} */}
             </div>
           </div>
-          <div>
+          <div className="lg:w-2/5 w-full">
             {/* <p className="text-center pr-20 text-white text-lg">
             CEX Listings
             <br />
             6.9%
           </p> */}
             {/* <img src={tokemfrog} className="w-[380px]" alt="" /> */}
-            <img src={cow} alt="" />
+            <img className=" rounded-[150px]" src={cow} alt="" />
             {/* <p className="text-center pr-20 text-white text-lg">
             CEX Listings
             <br />

@@ -102,7 +102,7 @@ const Banner = () => {
               </div> */}
             </div>
           </div>
-          <div className="lg:w-2/5 w-[90%]">
+          <div className="lg:w-2/5 w-[90%] ">
             <img src={BannerImage} alt="" />
           </div>
         </div>
