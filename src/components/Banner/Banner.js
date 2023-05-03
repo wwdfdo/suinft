@@ -61,22 +61,22 @@ const Banner = () => {
                   <img src={telegram} alt="" />
                 </div>
               </a>
-              <a href="/" target="_blank" rel="noreferrer">
+              <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={discord} alt="" />
                 </div>
               </a>
-              <a href="/" target="_blank" rel="noreferrer">
+              <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={opensea} alt="" />
                 </div>
               </a>
-              <a href="/" target="_blank" rel="noreferrer">
+              <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={medium} alt="" />
                 </div>
               </a>
-              <a href="/" target="_blank" rel="noreferrer">
+              <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={nftlink} alt="" />
                 </div>

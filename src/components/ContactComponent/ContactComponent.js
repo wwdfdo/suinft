@@ -32,17 +32,17 @@ const ContactComponent = () => {
           >
             <SiTelegram className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a href="/">
             {" "}
             <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a href="/">
             <img src={opensea} className=" lg:w-[56px] w-[30px]" alt="" />
           </a>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a href="/">
             <img src={medium} className=" lg:w-[56px] w-[30px]" alt="" />
           </a>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a href="/">
             <img src={nftLink} className=" lg:w-[56px] w-[30px] pt-2" alt="" />
           </a>
         </div>
