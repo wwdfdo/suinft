@@ -61,7 +61,11 @@ const Tokenomics = () => {
             6.9%
           </p> */}
             {/* <img src={tokemfrog} className="w-[380px]" alt="" /> */}
-            <img className=" rounded-[150px]" src={cow} alt="" />
+            <img
+              className="  rounded-tl-[250px] rounded-tr-[250px] rounded-bl-[50px] rounded-br-[50px]"
+              src={cow}
+              alt=""
+            />
             {/* <p className="text-center pr-20 text-white text-lg">
             CEX Listings
             <br />

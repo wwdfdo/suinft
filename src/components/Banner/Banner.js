@@ -103,7 +103,11 @@ const Banner = () => {
             </div>
           </div>
           <div className="lg:w-2/5 w-[90%] ">
-            <img className=" rounded-[150px]" src={BannerImage} alt="" />
+            <img
+              className=" rounded-tl-[150px] rounded-tr-[50px] rounded-bl-[50px] rounded-br-[150px]"
+              src={BannerImage}
+              alt=""
+            />
           </div>
         </div>
         {/* <div className="flex justify-center ">
