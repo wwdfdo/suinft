@@ -67,7 +67,7 @@ const Banner = () => {
                 </div>
               </a>
               <a
-                href="https://opensea.io/collection/suinftofficial/drop?tab=roadmap"
+                href="https://opensea.io/collection/suinftofficial/drop"
                 target="_blank"
                 rel="noreferrer"
               >

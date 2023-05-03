@@ -37,7 +37,7 @@ const ContactComponent = () => {
             <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
           </a>
           <a
-            href="https://opensea.io/collection/suinftofficial/drop?tab=roadmap"
+            href="https://opensea.io/collection/suinftofficial/drop"
             target="_blank"
             rel="noreferrer"
           >
