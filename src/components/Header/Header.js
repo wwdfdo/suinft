@@ -3,7 +3,7 @@ import logo from "../../images/Pepe_Club_Logo.png";
 
 const Header = () => {
   return (
-    <div className=" lg:flex hidden h-[10rem] items-center bg-[#4f9843] justify-between px-[5%] text-3xl font-bold text-white shadow-md  ">
+    <div className=" lg:flex hidden h-[10rem] items-center bg-[#3A94C9] justify-between px-[5%] text-3xl font-bold text-white shadow-md  ">
       <div>
         <img src={logo} className="w-[16rem]" alt="" />
       </div>

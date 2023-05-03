@@ -3,7 +3,7 @@ import sound from "../../audios/Frog Ribbit Sound Effect.mp3";
 
 const Footer = () => {
   return (
-    <div className="text-center bg-[#3a963d] h-16 flex items-center justify-center  font-semibold shadow-3xl relative">
+    <div className="text-center bg-[#3A94C9] h-16 flex items-center justify-center  font-semibold shadow-3xl relative">
       <p>© 2023 by PEPECLUB. All rights reserved!</p>
       <audio
         controls
