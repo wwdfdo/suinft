@@ -1,5 +1,5 @@
 import React from "react";
-import capfrog from "../../images/pepecroped5.png";
+import capfrog from "../../images/12-cr.png";
 import whiteborder from "../../images/bordersvg.svg";
 
 const About = () => {
