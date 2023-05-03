@@ -1,5 +1,5 @@
 import React from "react";
-import capfrog from "../../images/12waterdrop.png";
+import capfrog from "../../images/22.png";
 import whiteborder from "../../images/bordersvg.svg";
 
 const About = () => {
@@ -11,7 +11,11 @@ const About = () => {
 
       <div className="flex lg:flex-row flex-col items-center lg:justify-between justify-between gap-10 text-white w-3/4 mx-auto lg:pt-40 pt-10 pb-10">
         <div className="lg:w-2/5 w-full">
-          <img src={capfrog} alt="" />
+          <img
+            className="rounded-[150px] rounded-r-[50px]"
+            src={capfrog}
+            alt=""
+          />
         </div>
         <div className="flex flex-col items-center lg:items-start gap-8 ">
           <h3 className="flex text-center lg:text-left lg:text-7xl text-4xl font-bold">
