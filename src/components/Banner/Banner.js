@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImage from "../../images/20waterdrop.png";
+import BannerImage from "../../images/20.png";
 import twitter from "../../images/icons8-twitter-circled-96.png";
 import telegram from "../../images/icons8-telegram-app-96.png";
 import medium from "../../images/medium.svg";
@@ -103,7 +103,7 @@ const Banner = () => {
             </div>
           </div>
           <div className="lg:w-2/5 w-[90%] ">
-            <img src={BannerImage} alt="" />
+            <img className=" rounded-[150px]" src={BannerImage} alt="" />
           </div>
         </div>
         {/* <div className="flex justify-center ">
