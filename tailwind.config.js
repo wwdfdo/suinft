@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        bgcow: "url('/src/images/banner-cow.webp)",
+      },
+      boxShadow: {
+        "3xl": "0 0 5px rgba(0, 0, 0, 0.7)",
+      },
+    },
   },
   plugins: [],
 };
