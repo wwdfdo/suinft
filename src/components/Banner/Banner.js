@@ -61,30 +61,39 @@ const Banner = () => {
                   <img src={telegram} alt="" />
                 </div>
               </a>
-              <a href="/">
+              {/* <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={discord} alt="" />
                 </div>
-              </a>
+              </a> */}
+              <div className="lg:w-[4.2rem] w-[2.6rem]">
+                <img src={discord} alt="" />
+              </div>
               <a
                 href="https://opensea.io/collection/suinftofficial/drop"
                 target="_blank"
                 rel="noreferrer"
               >
-                <div className="lg:w-[4.2rem] w-[2.6rem]">
+                <div className="lg:w-[4.2rem] w-[2.6rem] cursor-pointer">
                   <img src={opensea} alt="" />
                 </div>
               </a>
-              <a href="/">
+              {/* <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={medium} alt="" />
                 </div>
-              </a>
-              <a href="/">
+              </a> */}
+              <div className="lg:w-[4.2rem] w-[2.6rem] cursor-pointer">
+                <img src={medium} alt="" />
+              </div>
+              {/* <a href="/">
                 <div className="lg:w-[4.2rem] w-[2.6rem]">
                   <img src={nftlink} alt="" />
                 </div>
-              </a>
+              </a> */}
+              <div className="lg:w-[4.2rem] w-[2.6rem] cursor-pointer">
+                <img src={nftlink} alt="" />
+              </div>
               {/* <div className="w-[4.2rem]">
                 {" "}
                 <img src={etherscan} alt="" />

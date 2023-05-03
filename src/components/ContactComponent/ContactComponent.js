@@ -32,23 +32,40 @@ const ContactComponent = () => {
           >
             <SiTelegram className="text-white lg:text-[56px] text-[30px]" />
           </a>
-          <a href="/">
+          {/* <a href="/">
             {" "}
             <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
-          </a>
+          </a> */}
+          <RxDiscordLogo className="text-white lg:text-[56px] text-[30px]" />
+
           <a
             href="https://opensea.io/collection/suinftofficial/drop"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={opensea} className=" lg:w-[56px] w-[30px]" alt="" />
+            <img
+              src={opensea}
+              className=" lg:w-[56px] w-[30px] cursor-pointer"
+              alt=""
+            />
           </a>
-          <a href="/">
+          {/* <a href="/">
             <img src={medium} className=" lg:w-[56px] w-[30px]" alt="" />
-          </a>
-          <a href="/">
+          </a> */}
+          <img
+            src={medium}
+            className=" lg:w-[56px] w-[30px] cursor-pointer"
+            alt=""
+          />
+
+          {/* <a href="/">
             <img src={nftLink} className=" lg:w-[56px] w-[30px] pt-2" alt="" />
-          </a>
+          </a> */}
+          <img
+            src={nftLink}
+            className=" lg:w-[56px] w-[30px] pt-2 cursor-pointer"
+            alt=""
+          />
         </div>
         {/* <p className="flex lg:text-2xl text-base text-center">
           #PEPE #PEPECLUB Pepe Club has no association with Matt Furie or his
