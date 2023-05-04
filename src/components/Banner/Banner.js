@@ -44,7 +44,7 @@ const Banner = () => {
             </p>
             <div className="flex gap-5 pt-4">
               <a
-                href="https://twitter.com/SuiNFTofficial/status/1653722958152749056"
+                href="https://twitter.com/SuiNFTofficial"
                 target="_blank"
                 rel="noreferrer"
               >

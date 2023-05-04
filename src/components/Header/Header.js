@@ -26,7 +26,7 @@ const Header = () => {
         </li>
       </ul>
       <a
-        href="https://opensea.io/collection/pepeclubvip/drop"
+        href="https://opensea.io/collection/suinftofficial/drop"
         target="_blank"
         rel="noreferrer"
       >
