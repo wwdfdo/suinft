@@ -19,7 +19,7 @@ const ContactComponent = () => {
         <p className="lg:text-2xl text-xl">email: team@suinft.wtf</p>
         <div className="flex gap-5">
           <a
-            href="https://twitter.com/SuiNFTofficial/status/1653722958152749056"
+            href="https://twitter.com/SuiNFTofficial"
             target="_blank"
             rel="noreferrer"
           >
